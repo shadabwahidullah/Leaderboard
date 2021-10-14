@@ -22,7 +22,7 @@ start your local server and build project using
 `npm start`
 
 
-## Authors
+## Author
 
 👤 **Wahidullah Shadab**
 
