@@ -19,31 +19,33 @@
         <div id="recent-scores" class="col-6 p-5">
           <div class="row m-0 mb-3">
             <h2 class="title fw-bold col-9">Recent Scores</h2>
-            <button class="col-3 btn btn-warning">Refresh</button>
+            <button id="refresh" class="col-3 btn btn-warning">Refresh</button>
           </div>
-          <ul class="scores border border-5 rounded">
-            <li class="p-3 fw-bold">something</li>
-            <li class="p-3 fw-bold">something</li>
-            <li class="p-3 fw-bold">something</li>
-        </ul>
+          <ul id="scores" class="border border-5 rounded"></ul>
         </div>
         <form class="score col-6 p-5">
           <h2 class="title fw-bold mb-3">Add your score</h2>
           <input
-          class="form-control mb-3"
+            class="form-control mb-3"
             type="text"
             name="new-name"
             id="new-name"
             placeholder="Your name"
           />
           <input
-          class="form-control mb-3"
+            class="form-control mb-3"
             type="text"
             name="new-score"
             id="new-score"
             placeholder="Your score"
           />
-          <button id="submit" type="submit" class="mb-3 btn btn-success float-end">submit</button>
+          <button
+            id="submit"
+            type="submit"
+            class="mb-3 btn btn-success float-end"
+          >
+            submit
+          </button>
         </form>
       </div>
     </div>
