@@ -2,11 +2,11 @@ body {
   background-color: bisque;
 }
 
-ul{
+ul {
   list-style: none;
-  padding: 0px;
+  padding: 0;
 }
 
-li:nth-child(even){
+li:nth-child(even) {
   background-color: rgb(235, 230, 230);
 }
