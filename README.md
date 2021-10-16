@@ -5,6 +5,9 @@
 
 ![image](https://user-images.githubusercontent.com/51750930/137402206-2f58e310-2db3-4afb-8530-02770885fda1.png)
  
+## Live demo
+
+[Live demo](https://shadabwahidullah.github.io/Leaderboard/src/src/)
 
 ## Getting Started
 
