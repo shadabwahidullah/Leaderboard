@@ -7,7 +7,7 @@
  
 ## Live demo
 
-[Live demo](https://shadabwahidullah.github.io/Leaderboard/src/src/)
+[Live demo](https://shadabwahidullah.github.io/Leaderboard/src/)
 
 ## Getting Started
 
