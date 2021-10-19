@@ -1,3 +1,12 @@
 body {
   background-color: bisque;
 }
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li:nth-child(even) {
+  background-color: rgb(235, 230, 230);
+}
