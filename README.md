@@ -18,7 +18,7 @@ open your terminal and clone the project using
 
 install or update your npm using
 
-`npm update`
+`npm install` or if you have it installed 'npm update'
 
 start your local server and build project using
 
