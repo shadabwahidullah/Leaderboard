@@ -1,31 +1,20 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Leaderboard
+# Webpack Boiler plate
 
-> I will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules.
-
-![image](https://user-images.githubusercontent.com/51750930/137402206-2f58e310-2db3-4afb-8530-02770885fda1.png)
- 
-## Live demo
-
-[Live demo](https://shadabwahidullah.github.io/Leaderboard/src/)
+> this is a boiler plate for starting a project that I will configure webpack in it.
+>  When working on the project you will not want to run the build command from the terminal every time you make a change in the code. Therefore I will install a webpack dev server, which will watch my source files, generate compiled distribution files and even refresh the browser every time I save changes in the source code.
 
 ## Getting Started
 
-get a local copy up and running follow these simple example steps.
-open your terminal and clone the project using 
-
-`git clone https://github.com/shadabwahidullah/Leaderboard.git`
-
-install or update your npm using
-
-`npm install` or if you have it installed 'npm update'
-
-start your local server and build project using
-
-`npm start`
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-## Author
+To get a local copy up and running follow these simple example steps.
+clone the project and you can start your own project on it.
+
+## Authors
 
 👤 **Wahidullah Shadab**
 
